@@ -1,0 +1,52 @@
+{
+	"collection": [
+		{
+			"name": "bing-dictionary",
+			"fileName": "bing-dictionary.xlsx",
+			"readable": true,
+			"writable": true,
+			"onlineSource": "Bing Dictionary"
+		},
+		{
+			"name": "iciba-collins",
+			"fileName": "iciba-collins.xlsx",
+			"readable": true,
+			"writable": true,
+			"onlineSource": "iCIBA Collins"
+		},
+		{
+			"name": "merriam-webster",
+			"fileName": "merriam-webster.xlsx",
+			"readable": true,
+			"writable": true,
+			"onlineSource": "Merriam Webster"
+		}
+	],
+	"dictionary": [
+		{
+			"name": "animal",
+			"fileName": "animal.xlsx",
+			"readable": true,
+			"writable": true
+		},
+		{
+			"name": "fruit",
+			"fileName": "fruit.xlsx",
+			"readable": true,
+			"writable": true
+		}
+	],
+	"online": {
+		"mode": 3,
+		"service": {
+			"Bing Dictionary": true,
+			"iCIBA Collins": true,
+			"Merriam Webster": true
+		},
+		"cache": {
+			"enable": true,
+			"shelfLifeDay": 7
+		},
+		"debug": false
+	}
+}

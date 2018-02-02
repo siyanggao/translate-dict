@@ -1,0 +1,90 @@
+{
+	"content": [
+		{
+			"queryString": "fuck",
+			"word": "fuck",
+			"definition": [
+				"n. 性交；性伴侣；蹩脚货；没用的东西",
+				"v. 性交；滚；操；发出命令时用",
+				"int. 操；滚；单独使用",
+				"网络 干；他妈的；法克"
+			],
+			"status": "basic",
+			"creationTime": 1517396019
+		},
+		{
+			"queryString": "autumn",
+			"word": "autumn",
+			"definition": [
+				"n. 秋季；秋天",
+				"网络 成熟期；渐衰期"
+			],
+			"status": "basic",
+			"creationTime": 1517398288
+		},
+		{
+			"queryString": "cat",
+			"word": "cat",
+			"definition": [
+				"n. 【动】猫；【动】猫科动物；爵士乐爱好者；【船】起锚滑车",
+				"v. 【船】把(锚)吊放在锚架上；宿娼；〈口〉呕吐；〈俚〉寻欢",
+				"abbr. (=computerized axial tomography)【医】计算机化轴向层面X射线摄影法",
+				"网络 卡特(Carter)；过氧化氢酶(catalase)；卡特彼勒(Caterpillar)"
+			],
+			"status": "basic",
+			"creationTime": 1517398923
+		},
+		{
+			"queryString": "late",
+			"word": "late",
+			"definition": [
+				"adj. 晚；迟到；晚期；晚到",
+				"adv. 晚；晚期；迟；最近",
+				"网络 迟的；晚的；已故的"
+			],
+			"status": "basic",
+			"creationTime": 1517399873
+		},
+		{
+			"queryString": "halt",
+			"word": "halt",
+			"definition": [
+				"n. 停止；暂停；中断；常用于英式英语",
+				"v. 阻止；(使)停止；(使)中断；(使)停下",
+				"int. 站住；立定；停止前进",
+				"adj. 〈旧〉跛的",
+				"网络 停住；停机；加速寿命测试(Highly Accelerated Life Test)"
+			],
+			"status": "basic",
+			"creationTime": 1517400123
+		},
+		{
+			"queryString": "%E5%81%9C%E6%AD%A2",
+			"word": "停止",
+			"definition": [
+				"na. stop; cease; halt; quit",
+				"网络 give up; leave off; stopped"
+			],
+			"status": "basic",
+			"creationTime": 1517400364
+		},
+		{
+			"queryString": "%E6%88%91%E6%98%AF%E5%A4%A9%E6%89%8D",
+			"word": "我是天才",
+			"definition": [
+				"网络 genius; Lookwalktalk; I'm brilliant"
+			],
+			"status": "null: BD04",
+			"creationTime": 1517400433
+		},
+		{
+			"queryString": "i+am+a+genius",
+			"word": "i am a genius",
+			"definition": [
+				"网络 我是个天才"
+			],
+			"status": "null: BD04",
+			"creationTime": 1517400486
+		}
+	]
+}

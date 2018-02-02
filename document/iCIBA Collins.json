@@ -1,0 +1,131 @@
+{
+	"content": [
+		{
+			"queryString": "fuck",
+			"word": "fuck",
+			"definition": [
+				"01 EXCLAM (表示愤怒或恼火)他妈的，该死的",
+				"   Fuck is used to express anger or annoyance.",
+				"02 EXCLAM (表示愤怒或不关心)见他妈的鬼/滚你妈的蛋/真他妈见鬼",
+				"   If someone uses an expression such as 'fuck it', 'fuck you', or 'fuck that', they are expressing anger or the fact that they do not care about someone or something.",
+				"03 V-RECIP 和…性交;操",
+				"   To fuck someone means to have sex with them.",
+				"04 PHRASE 一点儿也不",
+				"   Fuck all is used to mean 'nothing at all'.",
+				"05 PHRASAL VERB 瞎胡闹;闲混;无所事事",
+				"   To fuck around or fuck about means to behave in a way that is silly, stupid, or unnecessary.",
+				"06 PHRASAL VERB 滚开;滚蛋",
+				"   Telling someone to fuck off is an insulting way of telling them to go away.",
+				"07 PHRASAL VERB 弄错;搞砸",
+				"   If you fuck something up, you make a mistake or do something badly."
+			],
+			"status": "basic",
+			"creationTime": 1517396019
+		},
+		{
+			"queryString": "autumn",
+			"word": "autumn",
+			"definition": [
+				"01 N-VAR 秋天",
+				"   Autumn is the season between summer and winter when the weather becomes cooler and the leaves fall off the trees."
+			],
+			"status": "basic",
+			"creationTime": 1517398287
+		},
+		{
+			"queryString": "cat",
+			"word": "cat",
+			"definition": [
+				"01 N-COUNT 猫",
+				"   A cat is a furry animal that has a long tail and sharp claws. Cats are often kept as pets.",
+				"02 N-COUNT 猫科动物",
+				"   Cats are lions, tigers, and other wild animals in the same family.",
+				"03 PHRASE (无意中)泄露秘密;说漏嘴",
+				"   If you let the cat out of the bag, you tell people about something that was being kept secret. You often do this by mistake.",
+				"04 PHRASE 好奇害死猫；事不关己，不要打听",
+				"   You say 'Curiosity killed the cat' in order to tell someone that they should not try to find out about something which does not concern them.",
+				"05 PHRASE 衣衫褴褛；不修边幅",
+				"   If you look like something the cat dragged in or brought in, you are very untidy or dirty.",
+				"06 PHRASE (打斗、竞赛中)玩猫戏老鼠，戏弄，捉弄",
+				"   In a fight or contest, if one person plays cat and mouse, or a game of cat and mouse, with the other, the first person tries to confuse or deceive the second in order to defeat them.",
+				"07 PHRASE 引起纷争;挑起轩然大波",
+				"   If you put the cat among the pigeons or set the cat among the pigeons, you cause fierce argument or discussion by doing or saying something.",
+				"08 PHRASE 地方狭小;空间拥挤",
+				"   If you say 'There's no room to swing a cat' or 'You can't swing a cat', you mean that the place you are talking about is very small or crowded."
+			],
+			"status": "basic",
+			"creationTime": 1517398923
+		},
+		{
+			"queryString": "late",
+			"word": "late",
+			"definition": [
+				"01 ADV-GRADED （时间上）接近终了，临近末了",
+				"   Late means near the end of a day, week, year, or other period of time.",
+				"02 ADJ-GRADED 近日暮的；近深夜的；时间不早的",
+				"   If it is late, it is near the end of the day or it is past the time that you feel something should have been done.",
+				"03 ADV-GRADED （比安排或预计时间）晚，迟",
+				"   Late means after the time that was arranged or expected.",
+				"04 ADV-GRADED （比通常时间）晚，迟",
+				"   Late means after the usual time that a particular event or activity happens.",
+				"05 ADJ 已故的；已逝的；（尤指）新近去世的",
+				"   You use late when you are talking about someone who is dead, especially someone who has died recently.",
+				"06 ADJ 在…居住（或工作）直至最近的",
+				"   Someone who is late of a particular place or institution lived or worked there until recently.",
+				"07 CONVENTION 迟到好过没到；晚做好过不做",
+				"   If you say better late than never when someone has done something, you think they should have done it earlier.",
+				"08 PHRASE 为时已晚；坐失良机",
+				"   If you say that someone is doing something late in the day, you mean that their action or behaviour may not be fully effective because they have waited too long before doing it.",
+				"09 PHRASE 新近；最近；近来",
+				"   You use of late to refer to an event or state of affairs that happened or began to exist a short time ago.",
+				"10 PHRASE 为时已晚；过迟",
+				"   If an action or event is too late, it is useless or ineffective because it occurs after the best time for it."
+			],
+			"status": "basic",
+			"creationTime": 1517399872
+		},
+		{
+			"queryString": "halt",
+			"word": "halt",
+			"definition": [
+				"01 V-ERG （使）停止行进;（使）停住",
+				"   When a person or a vehicle halts or when something halts them, they stop moving in the direction they were going and stand still.",
+				"02 V-ERG （使）（生长、发展、活动等）停止（或中止）",
+				"   When something such as growth, development, or activity halts or when you halt it, it stops completely.",
+				"03 VERB （军队口令）立定！站住！停止前进！",
+				"   'Halt!' is a military order to stop walking or marching and stand still.",
+				"04 N-COUNT （只有小型站台、无建筑物的)小火车站",
+				"   A halt is a very small station on a country railway line, which often consists only of a short platform and no building.",
+				"05 PHRASE 下令停止;叫停",
+				"   If someone calls a halt to something such as an activity, they decide not to continue with it or to end it immediately.",
+				"06 PHRASE 停止移动;停下",
+				"   If someone or something comes to a halt, they stop moving.",
+				"07 PHRASE （使）（生长、发展、活动等）完全停止",
+				"   If something such as growth, development, or activity comes or grinds to a halt or is brought to a halt, it stops completely."
+			],
+			"status": "basic",
+			"creationTime": 1517400122
+		},
+		{
+			"queryString": "%E5%81%9C%E6%AD%A2",
+			"word": "停止",
+			"definition": null,
+			"status": "null: IC04",
+			"creationTime": 1517400364
+		},
+		{
+			"queryString": "%E6%88%91%E6%98%AF%E5%A4%A9%E6%89%8D",
+			"word": "",
+			"definition": null,
+			"status": "null: IC02",
+			"creationTime": 1517400433
+		},
+		{
+			"queryString": "i+am+a+genius",
+			"word": "",
+			"definition": null,
+			"status": "null: IC02",
+			"creationTime": 1517400486
+		}
+	]
+}

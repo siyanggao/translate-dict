@@ -1,0 +1,72 @@
+{
+	"content": [
+		{
+			"queryString": "fuck",
+			"word": "",
+			"definition": null,
+			"status": "null: MW03",
+			"creationTime": 1517396021
+		},
+		{
+			"queryString": "autumn",
+			"word": "autumn",
+			"definition": [
+				"noun",
+				": the season between summer and winter",
+				": the later part of someone's life or of something's existence"
+			],
+			"status": "basic",
+			"creationTime": 1517398292
+		},
+		{
+			"queryString": "cat",
+			"word": "",
+			"definition": null,
+			"status": "null: MW03",
+			"creationTime": 1517398927
+		},
+		{
+			"queryString": "late",
+			"word": "late",
+			"definition": [
+				"adverb",
+				": at or near the end of a period of time or a process, activity, series, etc.",
+				": after the usual or expected time"
+			],
+			"status": "basic",
+			"creationTime": 1517399874
+		},
+		{
+			"queryString": "halt",
+			"word": "halt",
+			"definition": [
+				"noun",
+				": the stopping or ending of movement, progress, or action",
+				": a small railroad stop at which there is no station"
+			],
+			"status": "basic",
+			"creationTime": 1517400125
+		},
+		{
+			"queryString": "%E5%81%9C%E6%AD%A2",
+			"word": "",
+			"definition": null,
+			"status": "null: MW02",
+			"creationTime": 1517400370
+		},
+		{
+			"queryString": "%E6%88%91%E6%98%AF%E5%A4%A9%E6%89%8D",
+			"word": "",
+			"definition": null,
+			"status": "null: MW02",
+			"creationTime": 1517400437
+		},
+		{
+			"queryString": "i+am+a+genius",
+			"word": "",
+			"definition": null,
+			"status": "null: MW02",
+			"creationTime": 1517400489
+		}
+	]
+}
