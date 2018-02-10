@@ -57,34 +57,6 @@
 			],
 			"status": "basic",
 			"creationTime": 1517400123
-		},
-		{
-			"queryString": "%E5%81%9C%E6%AD%A2",
-			"word": "停止",
-			"definition": [
-				"na. stop; cease; halt; quit",
-				"网络 give up; leave off; stopped"
-			],
-			"status": "basic",
-			"creationTime": 1517400364
-		},
-		{
-			"queryString": "%E6%88%91%E6%98%AF%E5%A4%A9%E6%89%8D",
-			"word": "我是天才",
-			"definition": [
-				"网络 genius; Lookwalktalk; I'm brilliant"
-			],
-			"status": "null: BD04",
-			"creationTime": 1517400433
-		},
-		{
-			"queryString": "i+am+a+genius",
-			"word": "i am a genius",
-			"definition": [
-				"网络 我是个天才"
-			],
-			"status": "null: BD04",
-			"creationTime": 1517400486
 		}
 	]
 }

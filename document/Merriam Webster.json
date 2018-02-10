@@ -67,6 +67,13 @@
 			"definition": null,
 			"status": "null: MW02",
 			"creationTime": 1517400489
+		},
+		{
+			"queryString": "",
+			"word": "",
+			"definition": null,
+			"status": "null: MW02",
+			"creationTime": 1517733080
 		}
 	]
 }

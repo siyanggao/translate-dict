@@ -7,6 +7,8 @@ import (
 	"strings"
 	_ "translate-dict/routers"
 
+	"translate-dict/services"
+
 	"github.com/astaxie/beego"
 	"github.com/zzc-tongji/mydictionary"
 )
@@ -17,7 +19,7 @@ func main() {
 		beego.BConfig.WebConfig.StaticDir["/swagger"] = "swagger"
 	}
 	initDict()
-
+	services.ReadAndSaveToDB()
 	beego.Run()
 
 }
